@@ -29,7 +29,7 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khubaib2002&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khubaib2002&theme=github_dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMuhammadAsad&layout=compact&theme=github_dark&langs_count=10&card_width=550)](https://github.com/AliMuhammadAsad/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khubaib2002&layout=compact&theme=github_dark&langs_count=10&card_width=550)](https://github.com/Khubaib2002/github-readme-stats)
 
 <br>
 
