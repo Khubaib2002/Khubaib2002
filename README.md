@@ -17,7 +17,7 @@ I have always been someone with an inquisite nature, always trying out new thing
 
  <p align="left">
   <a href="https://github.com/AliMuhammadAsad">
-    <img src="https://github-stats-alpha.vercel.app/api?username=AliMuhammadAsad&cc=22272e&width=500px&tc=37BCF6&ic=fff&bc=fff">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Khubaib2002&cc=22272e&width=500px&tc=37BCF6&ic=fff&bc=fff">
   </a>
  </p>
 
