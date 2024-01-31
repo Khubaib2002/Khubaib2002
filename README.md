@@ -8,28 +8,6 @@ I have always been someone with an inquisite nature, always trying out new thing
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khubaib2002&layout=compact&theme=github_dark&langs_count=10&card_width=550)](https://github.com/Khubaib2002/github-readme-stats)
 
-
-<div align='left'>
-<p align="left"> 
-   Visitor count:
-   <img src="https://profile-counter.glitch.me/Khubaib2002/count.svg" align="center"/> 
- </p></div>
-
- <p align="left">
-  <a href="https://github.com/Khubaib2002">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Khubaib2002&cc=22272e&width=500px&tc=37BCF6&ic=fff&bc=fff">
-  </a>
- </p>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khubaib2002&layout=compact&theme=github_dark&langs_count=10&card_width=550)](https://github.com/Khubaib2002/github-readme-stats)
-
-<br>
-
-
-
-
-
-
 <br>
 
 
