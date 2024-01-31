@@ -16,7 +16,7 @@ I have always been someone with an inquisite nature, always trying out new thing
  </p></div>
 
  <p align="left">
-  <a href="https://github.com/AliMuhammadAsad">
+  <a href="https://github.com/Khubaib2002">
     <img src="https://github-stats-alpha.vercel.app/api?username=Khubaib2002&cc=22272e&width=500px&tc=37BCF6&ic=fff&bc=fff">
   </a>
  </p>
@@ -24,10 +24,10 @@ I have always been someone with an inquisite nature, always trying out new thing
  <summary>📈 Stats</summary>
 <br>
 My Github Stats
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliMuhammadAsad&theme=github_dark)  -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khubaib2002&theme=github_dark)  -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliMuhammadAsad&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliMuhammadAsad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khubaib2002&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khubaib2002&theme=github_dark)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMuhammadAsad&layout=compact&theme=github_dark&langs_count=10&card_width=550)](https://github.com/AliMuhammadAsad/github-readme-stats)
 
