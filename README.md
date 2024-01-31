@@ -6,7 +6,7 @@ Hello everyone, I'm Khubaib, a Junior(third-year student) at *Habib University*
 
 I have always been someone with an inquisite nature, always trying out new things. I have worked as Teacher Assistant on different Computer Science courses and was part of a research based on "Use of AI in the Banking Sector". I also regularly play badminton and try to improve my game in table tennis as well. I have also been teaching tuitions privately to finance my education and have been part of various welfare programs focu on educating the less priviliged. I love watching movies and shows; especially Fantasy/Mythological, reading anime, and playing cricket.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khubaib2002&layout=compact&theme=github_dark&langs_count=10&card_width=550)](https://github.com/Khubaib2002/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khubaib2002&layout=compact&theme=github_light&langs_count=10&card_width=550)](https://github.com/Khubaib2002/github-readme-stats)
 
 <br>
 
