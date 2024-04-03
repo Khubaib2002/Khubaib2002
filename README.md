@@ -1,6 +1,6 @@
 # Hi there, I'm Khubaib Mukaddam 👋
 
-## Currently studying CS, aspiring to be a Full Stack Developer, and learning to be independent!
+## Currently studying CS, and learning new skills along the way!
 --------------------------------------------------------
 Hello everyone, I'm Khubaib, a Junior(third-year student) at *Habib University*
 
