@@ -2,7 +2,7 @@
 
 ## Currently studying CS, and learning new skills along the way!
 --------------------------------------------------------
-Hello everyone, I'm Khubaib, a Junior(third-year student) at *Habib University*
+Hello everyone, I'm Khubaib, a Senior(final-year student) at *Habib University*
 
 I have always been someone with an inquisite nature, always trying out new things. I have worked as Teacher Assistant on different Computer Science courses and was part of a research based on "Use of AI in the Banking Sector". I also regularly play badminton and try to improve my game in table tennis as well. I have also been teaching tuitions privately to finance my education and have been part of various welfare programs focusing on educating the less priviliged. I love watching movies and shows; especially Fantasy/Mythological, reading anime, and playing cricket.
 
