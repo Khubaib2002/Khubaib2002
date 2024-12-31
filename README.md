@@ -15,7 +15,7 @@ Beyond academics, I have taken proactive steps to finance my education through p
 
 - 📖 Doing Bachelor's in Computer Science from Habib University
 - 🔭 I’m currently working on [Myself](https://www.github.com/Khubaib2002)!
-- 🥅 Goals For 2024: Improve my portfolio significantly to land entry-level roles
+- 🥅 Goals For 2025: Improve my portfolio significantly and pursue Masters
 
 ## Connect:
 
